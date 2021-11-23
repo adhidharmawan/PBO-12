@@ -23,7 +23,7 @@ public class RentalConsoleGame {
         g1.input();
         g1.printPelanggan();
         
-        MemberPlatinum p1 = new MemberPlatinum("Mr. Y", "Platinum");
+        MemberPlatinum p1 = new MemberPlatinum("Mr. Z", "Platinum");
         p1.input();
         p1.printPelanggan();
   
